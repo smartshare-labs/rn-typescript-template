@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@react-native-community/netinfo": "^3.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "16.8.3",
     "react-native": "0.59.8",
     "react-navigation": "^3.11.0"
